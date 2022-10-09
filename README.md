@@ -1,2 +1,2 @@
 # htf_2022
-Come contribute your code!
+Come contribute your code! (preferably Python)
